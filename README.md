@@ -1,5 +1,9 @@
-# AndroidClientAutomationTestLogin
-Initial demo of Login app and unit tests using Android JUnit and other testing framework 
+# 本人用来学习Junit进行安卓单元测试的例子 
+#  
 
 
-本人用来学习Junit进行安卓单元测试的例子
+
+1.  先写原demo工程
+2. 再写测试工程
+3. 测试工程指向原demo，并根据情况写assert
+4. 不断重构！ 
